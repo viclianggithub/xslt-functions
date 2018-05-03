@@ -1,0 +1,8 @@
+<appian-plugin name="XSLTransoformation" key="com.appiancorp.ps.plugins.xslt">
+    <plugin-info>
+        <description>A plugin to perform XSL Transformations</description>
+        <version>1.0.0</version>
+    </plugin-info>
+    <function-category key="xsltCategory" />
+    <function key="xsltFunctions" class="com.appiancorp.ps.plugins.xslt.XSLTransform" />
+</appian-plugin>
